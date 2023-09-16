@@ -1,6 +1,6 @@
 package com.driver;
 
-public class classA {
+public class class_A {
     public String meth() {
         return "Method overridden";
     }
